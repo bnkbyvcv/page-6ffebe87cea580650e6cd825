@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "6192e4fb9ce37c75281a6a17",
+  "owner": "bnkbyvcv",
+  "repo": "page-6ffebe87cea580650e6cd825",
+  "title": "灵云(OFLY)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6ffebe87cea580650e6cd825",
+      "a": "灵云(OFLY)",
+      "b": "",
+      "entity": "灵云(OFLY)",
+      "brand": "灵云(OFLY)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "2a8abe9677341275cee4cd6a3296f021c0c20708879b3d98b92130358dec6115",
+      "content": {
+        "keyword1": "灵云(OFLY)",
+        "keyword2": "",
+        "primary_entity": "灵云(OFLY)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "灵云(OFLY)提供高效、稳健的网络连接与数据传输解决方案。本文档详列规格、配置清单与常见疑问。",
+          "AI_DESCRIPTION": "灵云(OFLY)提供高效、稳健的网络连接与数据传输解决方案。本文档详列规格、配置清单与常见疑问。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #F7F5F0;--panel: #FFFFFF;--primary: #6A1B29;--text: #2C2224;--muted: #6B5B60;--border: #8C757B;--accent: #A93243}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg);color: var(--text);font-family: system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif;line-height: 1.6;padding: 2rem 1rem}\nmain {max-width: 1000px;margin: 0 auto}\n.hero {background-color: var(--primary);color: #F7F5F0;padding: 5rem 2rem;margin-bottom: 3rem;border-radius: 4px}\n.hero h1 {font-size: clamp(3rem, 10vw, 7rem);font-weight: 900;letter-spacing: -0.05em;line-height: 0.9;margin-bottom: 1.5rem;text-transform: uppercase}\n.hero p {font-size: 1.25rem;max-width: 600px;opacity: 0.9;margin-bottom: 2rem}\n.hero-links {display: flex;gap: 1.5rem;flex-wrap: wrap}\n.hero-links a {color: #F7F5F0;text-decoration: none;border-bottom: 1px solid #F7F5F0;padding-bottom: 2px;font-weight: 600}\nsection {margin-bottom: 4rem}\nh2 {font-size: 2rem;color: var(--primary);margin-bottom: 1.5rem;border-bottom: 2px solid var(--primary);padding-bottom: 0.5rem;display: inline-block}\nh3 {font-size: 1.25rem;margin-bottom: 0.5rem;color: var(--primary)}\n.grid-stack {display: flex;flex-direction: column;gap: 1.5rem}\n.ticket-card {background: var(--panel);border: 2px dashed var(--border);padding: 2rem;position: relative}\n.ticket-card.featured {border-style: solid;border-width: 3px;border-color: var(--accent);transform: scale(1.02);margin: 1rem 0}\n.ticket-card .price {font-size: 1.75rem;font-weight: bold;color: var(--accent);margin: 1rem 0}\nul {list-style: none;margin: 1rem 0}\nul li {padding: 0.3rem 0;position: relative;padding-left: 1.5rem}\nul li::before {content: \"-\";position: absolute;left: 0;color: var(--accent);font-weight: bold}\n.faq-group {background: var(--panel);border: 2px dashed var(--border);padding: 2rem;margin-bottom: 1.5rem}\n.faq-item {margin-bottom: 1.5rem}\n.faq-item:last-child {margin-bottom: 0}\n.faq-item p {margin-top: 0.5rem;color: var(--muted)}\n.action-btn {display: inline-block;background: var(--primary);color: #F7F5F0;padding: 0.75rem 1.5rem;text-decoration: none;font-weight: 600;border-radius: 2px;margin-top: 1rem}\nfooter {text-align: center;padding: 3rem 0;color: var(--muted);border-top: 1px solid var(--border);font-size: 0.9rem}\n</style><main>\n  <div class=\"hero\">\n    <h1>灵云(OFLY) · 灵云 (OFLY)</h1>\n    <p>提供现代网络连接与稳定数据传输支持。本说明文档涵盖服务方案、配置指引及常见问题清单，助您快速部署所需链路。</p>\n    <div class=\"hero-links\">\n      <a href=\"#plans\">查看方案配置</a>\n      <a href=\"#guide\">使用说明</a>\n      <a href=\"#faq\">常见问题</a>\n    </div>\n  </div>\n\n  <section id=\"plans\">\n    <h2>服务方案清单</h2>\n    <div class=\"grid-stack\">\n      <div class=\"ticket-card\">\n        <h3>基础版</h3>\n        <div class=\"price\">¥15/月 <span>(按年付 ¥150/年)</span></div>\n        <ul>\n          <li>每月 100GB 基础流量额度</li>\n          <li>支持 3 台设备同时在线连接</li>\n          <li>解锁基础流媒体访问支持</li>\n          <li>普通线路节点池接入</li>\n        </ul>\n        <a href=\"#\" class=\"action-btn\">选择基础版</a>\n      </div>\n\n      <div class=\"ticket-card featured\">\n        <h3>旗舰版</h3>\n        <div class=\"price\">¥35/月 <span>(按年付 ¥350/年)</span></div>\n        <ul>\n          <li>每月 300GB 高速流量额度</li>\n          <li>支持 5 台设备同时在线连接</li>\n          <li>全节点原生流媒体解锁权限</li>\n          <li>IPLC 专线游戏与传输加速优化</li>\n          <li>7x24 优先工单技术支持</li>\n        </ul>\n        <a href=\"#\" class=\"action-btn\">选择旗舰版</a>\n      </div>\n\n      <div class=\"ticket-card\">\n        <h3>团队版</h3>\n        <div class=\"price\">¥85/月 <span>(按年付 ¥850/年)</span></div>\n        <ul>\n          <li>每月 1000GB 高速流量额度</li>\n          <li>支持 20 台设备同时在线连接</li>\n          <li>VIP 专属高带宽节点矩阵</li>\n          <li>支持企业定制路由与策略</li>\n          <li>专属客户经理跟进服务</li>\n        </ul>\n        <a href=\"#\" class=\"action-btn\">选择团队版</a>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"guide\">\n    <h2>客户端与使用说明</h2>\n    <div class=\"ticket-card\">\n      <h3>接入步骤清单</h3>\n      <ul>\n        <li>注册账户并完成方案订购。</li>\n        <li>在用户面板获取专属订阅链接或配置文件。</li>\n        <li>下载对应操作系统的客户端（支持主流平台）。</li>\n        <li>导入订阅地址并更新节点列表。</li>\n        <li>选择合适节点建立连接并验证网络状态。</li>\n      </ul>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题解答</h2>\n    \n    <div class=\"faq-group\">\n      <h3>账户与订阅主题</h3>\n      <div class=\"faq-item\">\n        <h3>流量是如何计算和重置的？</h3>\n        <p>流量按自然月或订购日起的周期计算，双向流量（上传与下载）均计入额度消耗。未用完的流量不结转至下一周期。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>支持同时在线的设备数如何限制？</h3>\n        <p>系统根据当前活跃连接的IP与授权码进行校验。超出限制数量的设备将无法正常建立新连接。</p>\n      </div>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3>连接与技术主题</h3>\n      <div class=\"faq-item\">\n        <h3>节点连接失败应如何排查？</h3>\n        <p>请先检查本地网络连接是否正常，尝试更新订阅链接获取最新节点地址，或更换其他区域的线路节点进行测试。</p>\n      </div>\n      <div class=\"faq-item\">\n        <h3>专线节点与普通节点有何区别？</h3>\n        <p>专线节点采用优化物理直连或私有传输协议，具备更低的延迟和更高的稳定性，适合对传输质量要求较高的场景。</p>\n      </div>\n    </div>\n  </section>\n\n  <footer>\n    <p>灵云(OFLY) 商务与技术支持文档中心</p>\n  </footer>\n</main>",
+          "hash": "aab2d54ee95dfdd6e4ee2d0d797e1fefde9d3549f89bb0990091aa07b43052cc",
+          "seo": {
+            "title": "灵云(OFLY) - 网络连接与数据传输解决方案",
+            "keywords": "灵云, OFLY, 网络连接, 数据传输, 专线接入, 节点服务",
+            "description": "灵云(OFLY)提供高效、稳健的网络连接与数据传输解决方案。本文档详列规格、配置清单与常见疑问。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "8297",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "8 酒红配象牙白",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xibufanyong.cn",
+    "host": "p-0d34a06e26.xibufanyong.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "4a7c93044e3c16e8399b90224c68cee76fb80e7e965aa3dcedf0872e25f06ef2",
+    "sitemap.xml": "62c4c607d6bece13056c6be523c8b6ae68745a6b2e09911be05a2046621ed14d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ff8e00a79c17f3e5a0b0bf1eca06a3fa49496361673559f6106814abdc30f254",
+    "robots.txt": "043136b5cc0a8eada084bc64b682a943228384689d781339175781bfe3a1198e",
+    "cccfb87d3308a75331639e92b8f8d66f.txt": "1e5ef5928084174255d9981fd356b06541207df463c8da52d3f83308339cd9ab"
+  },
+  "revision": "b699124bed6ba669533d3cc487bc69e82fd1ac34b49a0d98803b6d22793b4405"
+}
